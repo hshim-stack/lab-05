@@ -16,3 +16,5 @@ N/A
 | ------------ | -------- |
 | `<example1>` | `<CCID>` |
 | `<example2>` | `<CCID>` |
+
+Quick note: To delete a city, just long-press it for about 2 seconds. :)
